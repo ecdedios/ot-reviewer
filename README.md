@@ -1,4 +1,4 @@
-# OT Reviewer
+# Occupational Therapy Reviewer
 
 > RAG implementation using OpenAI and Langchain.
 
